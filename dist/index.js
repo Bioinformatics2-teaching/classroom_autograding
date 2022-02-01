@@ -11425,8 +11425,8 @@ exports.runAll = async (tests, cwd) => {
     const token = uuid_1.v4();
     let failed = false;
     log('');
-    log(color.yellow('WS 2021/2022'));
-    log(color.bold.yellow('Bionformatics I'));
+    log(color.yellow('SS 2021/2022'));
+    log(color.bold.yellow('Bionformatics II'));
     log(color.bold.yellow('Albert-Ludwigs-Universität Freiburg'));
     log(color.bold.yellow('Lehrstuhl für Bioinformatik - Institut für Informatik'));
     log('');
