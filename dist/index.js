@@ -11471,8 +11471,8 @@ exports.runAll = async (tests, cwd) => {
     }
 
     log("")
-    log(color.yellow("Nothing in biology makes sense except in the light of evolution."))
-    log(color.yellow("\t-- Theodosius Dobzhansky (1900-1975)"))
+    log(color.yellow("Wissenschaft ist ein im Wesentlichen anarchistisches Unternehmen."))
+    log(color.yellow("\t-- Paul K. Feyerabend (1924-1994)"))
     log("")
 };
 
